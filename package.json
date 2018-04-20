@@ -1,0 +1,24 @@
+{
+  "name": "html_parser_endpoints",
+  "version": "1.0.0",
+  "description": "Build two endpoints - one to grab innerText and innerHTML by tag name, one to fuzzy check if specified html tags contain target text.",
+  "main": "express-server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackieline/HTMLParserEndpoints.git"
+  },
+  "author": "jacqueline leung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackieline/HTMLParserEndpoints/issues"
+  },
+  "homepage": "https://github.com/jackieline/HTMLParserEndpoints#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
