@@ -4,6 +4,7 @@
   "description": "Build two endpoints - one to grab innerText and innerHTML by tag name, one to fuzzy check if specified html tags contain target text.",
   "main": "express-server.js",
   "scripts": {
+    "start": "nodemon express-server.js",
     "test": "test"
   },
   "repository": {
